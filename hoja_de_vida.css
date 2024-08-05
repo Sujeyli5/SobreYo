@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0dgTcScEAVDsXEDbF55aaPhtI5_TFPkizw&s);
+}
+.hoja{
+    color: rgb(32, 32, 70);
+}
+.nombre{
+    color: rgb(24, 24, 70);
+}
+header{
+     background-color:rgb(136, 136, 187) ;
+     text-align: center;
+}
+table{
+    width: 100%;
+}
+th{
+border: 1px rgb(24, 24, 61) solid;
+}
+.datos{
+width: 15%;
+background-color: rgb(183, 183, 216);
+padding-left: 15%;
+padding-top: 1%;
+padding-right: 15%;
+padding-right: 15%;
+display: inline-block;
+}
+main{
+    margin-left: 50px;
+}
+img{
+    width: 550px;
+}
+.etiquetas{
+    display: inline;
+}
+footer{
+    background-color: rgb(93, 161, 161);
+    text-align: center;
+}
+form{
+    width: 550px;
+    background-color: rgb(162, 230, 207);
+    margin: auto;
+    padding: 50px;
+}
+.comentarios{
+    text-align: center;
+}
+input{
+    margin: 15px;
+}
